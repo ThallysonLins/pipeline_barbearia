@@ -1,0 +1,7 @@
+data,cliente,servico,preco,forma_pagamento
+2024-01-02,João,Corte,35.0,dinheiro
+2024-01-02,Carlos,Barba,25.0,pix
+2024-01-03,Lucas,Corte,35.0,pix
+2024-01-04,João,Barba,25.0,
+2024-01-04,Marcos,Corte,35.0,cartao
+2024-01-05,Carlos,Corte + Barba,55.0,dinheiro
